@@ -18,4 +18,4 @@ $cd Buitenzorg-Translate
 
 $perl Buitenzorg-Translate.pl
 
-Thanks To Make My Tools
+# Thanks To Make My Tools
